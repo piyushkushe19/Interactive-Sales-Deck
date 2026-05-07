@@ -4,7 +4,7 @@ A world-class, browser-based interactive sales deck for American Dream Mall (Eas
 
 ## 🚀 Project Preview
 Explore the live interactive sales deck here:
-👉 https://interactive-sales-deck.vercel.app/
+👉 https://interactivesaledeck.vercel.app/
 
 
 ## Tech Stack
