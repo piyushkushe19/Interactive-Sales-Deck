@@ -44,7 +44,7 @@ export default function HeroSlide({ isActive, goTo }) {
       {/* Background video */}
       <video
         ref={videoRef}
-        src="public/Hero_Video_Mobile.mp4"
+        src="/Hero_Video_Mobile.mp4"
         muted
         loop
         playsInline
