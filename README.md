@@ -1,6 +1,26 @@
 # American Dream Mall — Interactive Sales Deck
 
-A premium, Digideck-style horizontal slide experience built with React + Vite + Framer Motion + Tailwind CSS.
+A world-class, browser-based interactive sales deck for American Dream Mall (East Rutherford, NJ). Built for commercial teams to close retail leasing, sponsorship, and event booking deals.
+
+## 🚀 Project Preview
+Explore the live interactive sales deck here:
+👉 https://interactive-sales-deck.vercel.app/
+
+
+## Tech Stack
+
+- **React 18** — component architecture
+- **Vite 5** — lightning-fast dev server + build
+- **Framer Motion 11** — staggered entrance animations per slide
+- **Tailwind CSS 3** — utility classes + custom design tokens
+- **Google Fonts** — Cormorant Garamond (display) + Outfit (body)
+
+
+
+## AI Tools Used
+- **Claude (Anthropic)** — architecture, component design, backend API
+- **Midjourney / DALL·E** — hero visuals, section imagery, brand renders
+- **GitHub Copilot** — code acceleration
 
 ## Quick Start
 
@@ -54,13 +74,6 @@ american-dream-deck/
             └── EventsSlide.jsx         # Slide 7: Events + CTA
 ```
 
-## Tech Stack
-
-- **React 18** — component architecture
-- **Vite 5** — lightning-fast dev server + build
-- **Framer Motion 11** — staggered entrance animations per slide
-- **Tailwind CSS 3** — utility classes + custom design tokens
-- **Google Fonts** — Cormorant Garamond (display) + Outfit (body)
 
 ## Design System
 
